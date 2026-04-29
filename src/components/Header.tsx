@@ -43,6 +43,9 @@ export function Header() {
           <Link className="hover:text-accent" href="/movies">
             Explore
           </Link>
+          <Link className="hover:text-accent" href="/movies/graph">
+            Graph
+          </Link>
           <Link className="hover:text-accent" href="/watchlist">
             Watchlist
           </Link>
